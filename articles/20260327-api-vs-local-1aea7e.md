@@ -3,7 +3,7 @@ title: "API vs Local LLM、まだ感覚で選んでないか？"
 emoji: "⚔️"
 type: "tech"
 topics: ["LLM", "機械学習", "ローカルLLM", "llama.cpp", "API"]
-published: true
+published: false
 ---
 
 ## API vs Local LLM、まだ感覚で選んでないか？
