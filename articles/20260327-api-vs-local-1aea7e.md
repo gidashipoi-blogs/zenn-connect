@@ -383,8 +383,8 @@ Local LLM推進派でも、API至上主義でもない立場から言う。
 ## 📚 参考
 
 - [Breaking the Capability Ceiling of LLM Post-Training by Reinforcement Learning (arXiv 2026)](http://arxiv.org/abs/2603.19987v1)
-- [How to Get Started With Large Language Models on NVIDIA RTX — NVIDIA Blog](https://news.google.com/rss/articles/CBMifkFVX3lxTE9tTjNLbmFvaDhxOXJRMEdVTkxVUlV3NGp1aWFKdHlyYUVVd2hjSE0zNHJuczAxamFsRHZMWWJKajBKbGNqNXdvdVJRb2l0cWJaQzhQblA0TlBDbnJEXzVKbGx6RmFwVEpGSmVybEpCeVBDVjA1SW1mS3pJaXh4UQ)
-- [How to Run Local LLMs in 2026: The Complete Developer's Guide — SitePoint](https://news.google.com/rss/articles/CBMie0FVX3lxTE40ZDVXWTZCX0w3T252eGMyV3QwVGlJbU5CUzJHMlRnekQ3c212Nzl6NW9DNmxmQXdWWjhfZm1mSTJENjF1OW9EMmdWa052Y1A1VjVMQ3dIZTZWTzg1VUNjM2FmRG0tWXJpWXNBTzcydDF1U18zdnpKcU91VQ)
-- [8 local LLM settings most people never touch — XDA](https://news.google.com/rss/articles/CBMif0FVX3lxTE5CMVZYaktEVVpQX2ZwYjVDckJVUGFiY0FCUkExVnNBcGRUN0J4eFlrRUw2MXZfSDBNSjBGR3lXeDVnUmlFUnZQLVltMFpSQW43eFMySzZSZnBXQVdySEp5T2ZZWXpBd19zR09MMm9sQjFxeWo5UlVHMGRIdjNoQnc)
+- How to Get Started With Large Language Models on NVIDIA RTX — NVIDIA Technical Blog
+- How to Run Local LLMs in 2026: The Complete Developer's Guide — SitePoint
+- 8 local LLM settings most people never touch — XDA Developers
 - [Measuring Faithfulness Depends on How You Measure (arXiv 2026)](http://arxiv.org/abs/2603.20172v1)
 - llama.cpp 公式リポジトリ: https://github.com/ggerganov/llama.cpp
