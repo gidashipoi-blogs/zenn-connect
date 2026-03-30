@@ -3,7 +3,7 @@ title: "LLMの「考えました」は8割嘘"
 emoji: "🎭"
 type: "tech"
 topics: ["LLM", "機械学習", "DeepLearning", "プロンプトエンジニアリング", "ローカルLLM"]
-published: true
+published: false
 ---
 
 ## あなたがCoTを読んでいるとき、モデルは別のことを考えている
